@@ -2,6 +2,13 @@
 ## Docs
 
 - https://openjfx.io/openjfx-docs/#maven
+- https://gluonhq.com/products/javafx/
+- https://gluonhq.com/developers/samples/
+
+-https://docs.oracle.com/javafx/2/deployment/jfxpub-deployment.htm
+- https://docs.oracle.com/javafx/2/deployment/packager.htm
+
+- https://github.com/sanogotech/gluon-javafxsamples
 
 ## Compile with UTF8
 ```
