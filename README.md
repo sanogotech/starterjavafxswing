@@ -1,4 +1,13 @@
 
+## Docs
+
+- https://openjfx.io/openjfx-docs/#maven
+
+## Compile with UTF8
+```
+javac -encoding utf8 Hello.java
+```
+  
 ## Build et Run
 
 Ce pom.xml définit les dépendances nécessaires pour exécuter le projet. Il utilise également le plugin JavaFX Maven pour créer un exécutable JAR.
