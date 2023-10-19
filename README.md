@@ -2,6 +2,25 @@
 ## Docs
 
 - https://openjfx.io/openjfx-docs/#maven
+- https://gluonhq.com/products/javafx/
+- https://gluonhq.com/developers/samples/
+
+-https://docs.oracle.com/javafx/2/deployment/jfxpub-deployment.htm
+- https://docs.oracle.com/javafx/2/deployment/packager.htm
+
+- https://github.com/sanogotech/gluon-javafxsamples
+
+## Drag & Drop,Rapid Application Development
+
+- https://gluonhq.com/products/scene-builder/
+  
+## Gluon Java Fx
+
+**Gluon JavaFX**
+
+* https://start.gluon.io/
+
+JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 
 ## Compile with UTF8
 ```
