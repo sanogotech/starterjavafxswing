@@ -1,5 +1,7 @@
 /target
 dependency-reduced-pom.xml
+/**/target
+/my-gluon-application/target
 
 # Others
 .classpath
